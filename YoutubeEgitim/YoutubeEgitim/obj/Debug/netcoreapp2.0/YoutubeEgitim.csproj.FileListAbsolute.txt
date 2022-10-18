@@ -1,0 +1,11 @@
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp2.0\YoutubeEgitim.deps.json
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp2.0\YoutubeEgitim.runtimeconfig.json
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp2.0\YoutubeEgitim.runtimeconfig.dev.json
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp2.0\YoutubeEgitim.dll
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp2.0\YoutubeEgitim.pdb
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.csprojResolveAssemblyReference.cache
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.AssemblyInfoInputs.cache
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.AssemblyInfo.cs
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.dll
+C:\Users\Ayşe ŞİNEĞU\Source\Repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp2.0\YoutubeEgitim.pdb
